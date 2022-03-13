@@ -1,0 +1,14 @@
+ cors is cross origin resource sharing which is used to connect two applications with two different ports 
+ 
+
+// CORS stands for
+// cross origin resource sharing:
+//  cors is a module that helps use to share the data between two application running on two different port numbers
+
+
+// cors is a module or npm library which allows two apps communicate with each other inorder to send or recieve 
+// data which are running on different domains or origins
+
+// when we use cors in local system then cors allows two applictions running on two different ports to 
+// comunicate between them
+
